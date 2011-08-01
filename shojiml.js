@@ -125,3 +125,5 @@ function init_rotator() {
 	$(document).ready(function(){
 		init_rotator();
 	});
+	
+//以上で終わり
